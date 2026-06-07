@@ -4,7 +4,7 @@ GenericName=Web Browser
 Categories=WebBrowser;Network;
 Comment=Launch Zen Browser
 Exec=/home/nigs/AppDir/AppRun
-Icon=/home/nigs/AppDir/icon.png
+Icon=/home/nigs/AppDir/zen.png
 Type=Application
 Terminal=false
 
