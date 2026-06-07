@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Zen Browser
+GenericName=Web Browser
+Categories=WebBrowser;Network;
+Comment=Launch Zen Browser
+Exec=/home/nigs/AppDir/AppRun
+Icon=/home/nigs/AppDir/icon.png
+Type=Application
+Terminal=false
+
